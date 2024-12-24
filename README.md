@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garpit001&label=Profile%20views&color=0e75b6&style=flat" alt="garpit001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garpit001" alt="garpit001" /></a> </p>
-
 - 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **Angular, Ai, Machine Learning**
