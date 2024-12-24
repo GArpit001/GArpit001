@@ -1,3 +1,4 @@
+![logo](https://github.com/GArpit001/GArpit001/blob/main/Third%20Gif.jpg)
 <h1 align="center">Hi 👋, I'm Arpit Verma</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
